@@ -1,10 +1,10 @@
 # Proyek-PSI-Kel-06
 
-Sistem informasi Gereja HKI Parsoburan Resort Habinsaran merupakan sebuah platform
+    Sistem informasi Gereja HKI Parsoburan Resort Habinsaran merupakan sebuah platform
 yang dibangun untuk membantu proses bisnis gereja HKI supaya lebih terautomasi. Pada
 platform ini akan ada beberapa fitur yang dapat membantu gereja HKI menjalankan
 program kerja lebih tersistem dan menjadi lebih efisien.
-Adapun yang akan menjadi user atau pengguna dari sistem yang akan dibangun ini adalah
+    Adapun yang akan menjadi user atau pengguna dari sistem yang akan dibangun ini adalah
 owner, admin dan umat gereja. Owner dari sistem yang akan dibangun ini adalah Pdt.
 Juliana. IP. Sibuea, S.Th selaku pendeta di gereja HKI Parsoburan. Masing-masing user
 memiliki fungsi fitur yang berbeda sesuai dengan kebutuhannya. Owner dapat mengelola
